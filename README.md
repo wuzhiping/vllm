@@ -24,7 +24,7 @@ docker run --rm -it --name qwen35 \
 curl -X POST "http://127.0.0.1:8000/v1/chat/completions"  \
        -H "Content-Type: application/json"  \
        --data '{
-                "model": "Qwen3.5-2B",
+                "model": "Qwen3.5-9B",
                 "messages": [{
                                 "role": "user",
                                 "content": "日本是美国的吗"

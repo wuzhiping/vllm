@@ -1,3 +1,6 @@
+# cc-switch
+https://github.com/farion1231/cc-switch/blob/main/README_ZH.md
+
 # vllm
 https://docs.vllm.ai/en/latest/
 ```
@@ -64,3 +67,6 @@ export ANTHROPIC_MODEL=deepseek-chat
 export ANTHROPIC_SMALL_FAST_MODEL=deepseek-chat
 export CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=1
 ```
+
+## oMLX
+https://omlx.ai/
